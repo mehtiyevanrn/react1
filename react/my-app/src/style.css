@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+img{
+    width:100px;
+    height:100px;
+    object-fit: contain;
+}
+.card{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
